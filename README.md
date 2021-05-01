@@ -15,4 +15,4 @@
 
 > Enter a Display name and room number to create a chat room
 
-> Now you can start chatting with anyone who enters into the roomas a group form any location, you can even share locations
+> Now you can start chatting with anyone as a group fromm any location, you can even share locations
