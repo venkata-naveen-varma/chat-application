@@ -7,10 +7,14 @@
 - Send Messages
 - Filter bad words
 
-## Heroku is used to deploy the application
-
 ### To Checkout this chat app
 
-> Enter a Display name and room number to create a chat room
+Step-1: Install code from the Github Repo
+Step-2: Open terminal in the Project folder
+Step-3: Run the command "npm install", this installs all the dependencies from the package.json file
+Step-4: Now run the command "npm start"
+This will start the server on port "3000", you can change it this is not your lucky number :)
 
-> Now you can start chatting with anyone as a group from any location, you can even share locations
+Step-5: Open a browser, type "localhost:3000" as url and press enter.
+
+Now you can use the chat room as you like by giving display-name and Chat room-number.
