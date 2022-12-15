@@ -1,4 +1,4 @@
-# Chat Application using Socket.io (v1.0.0)
+# Chat Application using Socket.io
 
 ### Operations performed using this application 
 
