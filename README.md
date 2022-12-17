@@ -1,5 +1,8 @@
 # Chat Application using Socket.io
 
+## Checkout Medium for details of the application
+> https://medium.com/@naveen-varma/chat-application-using-sockets-nodejs-e7e94277c57c
+
 ### Operations performed using this application 
 
 - Create a chat room
